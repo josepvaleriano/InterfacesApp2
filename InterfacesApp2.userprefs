@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2391CB20-F290-4E7B-AAFA-D49E40FCAEB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesApp2/Inicio.cs">
+    <Files>
+      <File FileName="InterfacesApp2/Inicio.cs" Line="20" Column="41" />
+      <File FileName="InterfacesApp2/App.xaml" Line="1" Column="1" />
+      <File FileName="InterfacesApp2/App.xaml.cs" Line="11" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InterfacesApp2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9523E26-DD68-46F6-A324-0BEFC0A610AD" />
+</Properties>

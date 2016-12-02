@@ -1,0 +1,17 @@
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS.App.xaml
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS.InterfacesApp2Page.xaml
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS..Users.Infraestructura.Projects.InterfacesApp2.InterfacesApp2.App.xaml.g.cs
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS..Users.Infraestructura.Projects.InterfacesApp2.InterfacesApp2.InterfacesApp2Page.xaml.g.cs
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/InterfacesApp2.iOS.exe.mdb
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/InterfacesApp2.iOS.exe
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS.exe
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/obj/iPhoneSimulator/Debug/InterfacesApp2.iOS.exe.mdb
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Infraestructura/Projects/InterfacesApp2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
